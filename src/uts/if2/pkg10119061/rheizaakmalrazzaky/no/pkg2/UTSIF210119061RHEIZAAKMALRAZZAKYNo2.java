@@ -10,6 +10,10 @@ import java.util.Scanner;
 /**
  *
  * @author Rheiza
+ * NAMA         : RHEIZA AKMAL RAZZAKY
+ * KELAS        : IF2
+ * NIM          : 10119061
+ * DESKRIPSI    : Menentukan uang yang diambil dari tabungan
  */
 public class UTSIF210119061RHEIZAAKMALRAZZAKYNo2 {
 
